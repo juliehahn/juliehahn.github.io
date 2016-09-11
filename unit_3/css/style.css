@@ -1,0 +1,10 @@
+body{
+	background-color: #B0C4DE; 
+	background:url('../images/camera.jpg');
+	background-repeat: no-repeat;
+	background-size: contain;
+}
+
+h1, p{
+	color: #483D8B;
+}
