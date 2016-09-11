@@ -1,5 +1,11 @@
+html{
+	background:url('images/floatingimage.jpg'); background-size: cover;
+}
+
+
+
 body{
-	background-color: #B0C4DE; background:url('images/floatingimage.jpg'); background-size: cover;
+	background-color: #B0C4DE; 
 	
 	
 
