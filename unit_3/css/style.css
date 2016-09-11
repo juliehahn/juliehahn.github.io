@@ -1,10 +1,5 @@
-html{background:url('images/fieldcamera.jpg'); background-size: cover; background: no-repeat;
-
-}
-
-
 body{
-	background-color: #B0C4DE; 
+	background-color: #B0C4DE; background:url('images/fieldcamera.jpg'); background-size: cover; background: no-repeat;
 	
 	
 
