@@ -9,5 +9,5 @@ h1, p{
 }
 
 img{ 
-	display: black; margin: auto; background-size: 100%;
+	display: block; margin: auto; background-size: 100%;
 }
