@@ -2,10 +2,8 @@ html{
 	background: url('images/camerafield.jpg'); background-size: 100%; background-repeat: cover;
 }
 
-body{
-	text-align: center;
-}
+
 
 h1, p{
-	color: #483DB8;
+	color: #483DB8; text-align: center
 }
