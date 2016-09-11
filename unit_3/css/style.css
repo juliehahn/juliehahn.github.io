@@ -1,5 +1,5 @@
 html{
-	background: url('images/camerafield.jpg'); background-size: 1500px 1500px; background-repeat: cover;
+	background: url('images/camerafield.jpg'); background-size: 1500px 1500px; background-repeat: no-repeat;
 }
 
 h1, p{
