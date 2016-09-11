@@ -1,5 +1,5 @@
 html{
-	background: url('images/greendress.jpg');
+	background: url('images/greendress.jpg'); 
 }
 
 
@@ -9,5 +9,5 @@ h1, p{
 }
 
 img{ 
-	display: black; margin: auto; 
+	display: black; margin: auto; background-size: 50%;
 }
