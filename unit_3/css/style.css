@@ -17,3 +17,7 @@ body{
 img{ 
 	margin: auto; background-size: 150px;
 }
+
+a{
+	text-align: center;
+}
