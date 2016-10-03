@@ -10,6 +10,11 @@ p{
 	font-style: italic; font-size: 26px;
 }
 
+ul {
+    text-align: center;
+    list-style-type: none;
+}
+
 li {
 	color: #483DB8;
 }
