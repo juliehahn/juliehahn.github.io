@@ -49,8 +49,9 @@ body{
 
 
 #floralcamera{
-	background-size: 200px;
-	width:;
+	background-size: 150px;
+	height: 200;
+	width: auto;
     position: absolute;
     bottom: 0px;
     left: 0px;
