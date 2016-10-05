@@ -13,7 +13,8 @@ h1, p{
 }
 
 p{
-	font-style: italic; font-size: 40px;
+	font-style: italic;
+	font-size: 2em;
 }
 
 ul {
