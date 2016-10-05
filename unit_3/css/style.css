@@ -48,28 +48,25 @@ body{
 
 
 
-
-
-
-img{ 
+#floralcamera{
 	background-size: 150px;
 	width:;
-	position: absolute;
-	bottom: 0px;
+    position: absolute;
+    bottom: 0px;
     left: 0px;
 }
 
 
 
 
-
-img{ 
+#burnt{
 	background-size: 150px;
 	width:;
 	position: absolute;
     top: 0px;
     right: 0px;
- }
+}
+
 
 a{
 	font-family: 'Open Sans Condensed', sans-serif;
