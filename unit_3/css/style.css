@@ -6,7 +6,7 @@
 h1, p{
 	font-family: 'Amatica SC', sans-serif;
 	font-weight: normal;
-	font-size: 1em;
+	font-size: 3em;
 	text-align: center;
 	color: #483DB8;
 	margin: ;
@@ -27,7 +27,7 @@ li {
 
 body{
 	background-color: #000000;
-	font-size: 50px; 1em = 50px
+	font-size: 25px; 1em = 25px
 }
 
 img{ 
