@@ -13,7 +13,7 @@ h1, p{
 }
 
 p{
-	font-style: italic; font-size: 26px;
+	font-style: italic; font-size: 40px;
 }
 
 ul {
@@ -27,7 +27,7 @@ li {
 
 body{
 	background-color: #000000;
-	font-size: 22px; 1em = 22px
+	font-size: 40px; 1em = 40px
 }
 
 img{ 
