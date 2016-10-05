@@ -1,0 +1,77 @@
+@import 'https://fonts.googleapis.com/css?family=Amatica+SC';
+@import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
+
+
+
+h1, p{
+	font-family: 'Amatica SC', sans-serif;
+	font-weight: normal;
+	font-size: 2.5em;
+	text-align: center;
+	color: #483DB8;
+	margin: ;
+}
+
+
+h2{
+	font-family: 'Amatica SC', sans-serif;
+	font-weight: normal;
+	font-size: 1.6em;
+	font-style: italic;
+	text-align: center;
+    color: #483DB8;
+	margin: ;
+
+}
+
+
+p{
+	font-size: 2.2em;
+		
+}
+
+ul {
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: normal;
+    text-align: center;
+    list-style-type: none;
+}
+
+li {
+	color: #483DB8;
+}
+
+body{
+	background-color: #000000;
+	font-size: 25px; 1em = 25px
+}
+
+
+
+#floralcamera{
+	background-size: 150px;
+	width:;
+	position: absolute;
+    bottom: 0px;
+    left: 0px;
+}
+
+
+
+#burnt{
+	background-size: 150px;
+	width:;
+	position: absolute;
+    top: 0px;
+    right: 0px;
+}
+
+
+a{
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: normal;
+	font-size: 0.8em;
+	text-align: center;
+	color: #483DB8;
+
+}
