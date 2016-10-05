@@ -14,9 +14,12 @@ h1, p{
 
 
 h2{
-	 font-size: 1.5em;
-	 color: #483DB8;
-	 margin: ;
+	font-family: 'Amatica SC', sans-serif;
+	font-weight: normal;
+	font-size: 1.5em;
+	text-align: center;
+    color: #483DB8;
+	margin: ;
 
 }
 
