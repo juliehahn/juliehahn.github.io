@@ -54,16 +54,16 @@ body{
 	margin:;
 }
 
-
+img{ 
+	margin: auto;
+	background-size: 150px;
+}
 
 
 #burntphoto{
 	margin:;
 }
-img{ 
-	margin: auto;
-	background-size: 150px;
- }
+
 
 
 a{
