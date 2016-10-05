@@ -47,13 +47,15 @@ body{
 }
 
 img{ 
-	margin: auto; background-size: 150px;
+	margin: auto;
+	background-size: 150px;
 }
 
 
 a{
 	font-family: 'Open Sans Condensed', sans-serif;
 	font-weight: normal;
+	font-size: 0.5em
 	text-align: center;
 	color: #483DB8;
 
