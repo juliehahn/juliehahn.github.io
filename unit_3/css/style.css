@@ -1,9 +1,12 @@
-
+@import 'https://fonts.googleapis.com/css?family=Amatica+SC';
+@import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
 
 
 
 h1, p{
-	color: #483DB8; text-align: center; font-family: Goudy Old Style;
+	color: #483DB8;
+	text-align: center;
+	font-family: 'Amatica SC', sans-serif;
 }
 
 p{
