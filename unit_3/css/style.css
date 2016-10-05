@@ -17,6 +17,7 @@ h2{
 	font-family: 'Amatica SC', sans-serif;
 	font-weight: normal;
 	font-size: 1.6em;
+	font-style: italic;
 	text-align: center;
     color: #483DB8;
 	margin: ;
@@ -26,8 +27,7 @@ h2{
 
 p{
 	font-size: 2.2em;
-	font-style: italic;
-	
+		
 }
 
 ul {
@@ -50,8 +50,7 @@ body{
 
 #floralcamera{
 	background-size: 150px;
-	height: 200px;
-    width: 50%;
+	width:;
 	position: absolute;
     bottom: 0px;
     left: 0px;
