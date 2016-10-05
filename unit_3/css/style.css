@@ -50,8 +50,9 @@ body{
 
 
 #floralcamera{
-	background-size: 150px;
-	margin:;
+	position: absolute;
+    bottom: 0px;
+    left: 0px;
 }
 
 img{ 
