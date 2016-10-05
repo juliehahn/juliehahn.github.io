@@ -52,5 +52,9 @@ img{
 
 
 a{
-	text-align: center; color: #483DB8
+	font-family: 'Open Sans Condensed', sans-serif;
+	font-weight: normal;
+	text-align: center;
+	color: #483DB8;
+
 }
