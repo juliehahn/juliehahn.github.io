@@ -56,8 +56,11 @@ body{
 }
 
 img{ 
-	margin: auto;
 	background-size: 150px;
+	width:;
+	position: absolute;
+	bottom: 0px;
+    left: 0px;
 }
 
 
