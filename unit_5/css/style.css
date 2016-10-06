@@ -73,6 +73,15 @@ nav a{
 }
 
 
+
+a{ 
+	font-family: "Open Sans Condensed", sans-serif;
+	font-size: 0.8em;
+	color: #5F6F9C;
+	text-decoration: none;
+	text-align: auto;
+}
+
 p a{
 	font-size: 0.8em;
 	color: #5F6F9C;
