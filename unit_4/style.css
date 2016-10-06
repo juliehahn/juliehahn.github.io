@@ -2,6 +2,13 @@
 @import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
 
 
+nav a{
+	color:#483DB8;
+	font-style: italic;
+	font-size: 0.5em;
+	margin-right: 20px;
+}
+
 
 h1, p{
 	font-family: 'Amatica SC', 'Ariel', sans-serif;
@@ -9,7 +16,6 @@ h1, p{
 	font-size: 2.5em;
 	text-align: center;
 	color: #483DB8;
-	margin: ;
 }
 
 
