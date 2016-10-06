@@ -1,8 +1,18 @@
 @import 'https://fonts.googleapis.com/css?family=Amatica+SC';
 @import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
 
-
-
+* { margin:0; padding:0; box-sizing:border-box; }
+body{
+	background-color: #000000;
+	font-size: 25px; /*1em = 25px*/
+}
+nav {
+	text-align:center;
+}
+nav a {
+	display:inline-block;
+	padding:1em;
+}
 h1, p{
 	font-family: 'Amatica SC', sans-serif;
 	font-weight: normal;
@@ -49,24 +59,20 @@ li {
     bottom: 0px;
     left: 0px;
 }
-
-
+#camera-photo, #burnt {
+	width: 50%;
+	float: left;
+}
+#camera-photo > *, #burnt > * {
+	float:left;
+	width:50%;
+}
 #burnt{
-	background-size: 150px;
 	width:;
-	position: absolute;
-    top: 0px;
-    right: 0px;
-
+	/* clear: both; */
 }
 
-
-body{
-	background-color: #000000;
-	font-size: 25px; 1em = 25px
-}
-
-a{ 
+a{
 	font-family: "Open Sans Condensed", sans-serif;
 	font-size: 1em;
 	color: #476D9C;
@@ -79,5 +85,11 @@ p a{
 	color: #476D9C;
 }
 
-
+.clearfix:after {
+	height:0;
+	content:" ";
+	visibility:hidden;
+	display:block;
+	clear:both;
+}
 
