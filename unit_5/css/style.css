@@ -8,14 +8,6 @@ body{
 	font-size: 25px; /*1em = 25px*/
 }
 
-nav {
-	text-align:center;
-}
-nav a {
-	display:inline-block;
-	padding:1em;
-}
-
 h1, p{
 	font-family: 'Amatica SC', sans-serif;
 	font-weight: normal;
