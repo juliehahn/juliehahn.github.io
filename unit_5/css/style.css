@@ -78,7 +78,10 @@ a{
 p a{
 	font-size: 0.8em;
 	color: #476D9C;
-	text-align: right;
+}
+
+.right{
+	text-align:right;
 }
 
 .clearfix:after {
