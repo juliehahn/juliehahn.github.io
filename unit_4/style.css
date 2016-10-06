@@ -64,8 +64,8 @@ li {
 
 
 #burnt{
-	background-size: 650px;
-	width: 500px;
+	background-size: 150px;
+	width:;
 	position: absolute;
     margin-top: 0px;
     margin-right: 0px;
@@ -73,7 +73,7 @@ li {
 }
 
 
-a{
+footer{
 	font-family: 'Open Sans Condensed', 'Ariel', sans-serif;
 	font-weight: normal;
 	font-size: 0.8em;
