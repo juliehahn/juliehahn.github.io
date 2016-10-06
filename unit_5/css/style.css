@@ -72,3 +72,11 @@ a{
 	text-align: center;
 	text-decoration: none;
 }
+
+p a{
+	font-size: 0.8em;
+	color: #483DB8;
+}
+
+
+
