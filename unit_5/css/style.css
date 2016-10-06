@@ -66,6 +66,15 @@ body{
 	font-size: 25px; 1em = 25px
 }
 
+nav{
+	color: #5F6F9C;
+	text-align: center;
+	font-family: "Open Sans Condensed", sans-serif;
+}
+
+
+
+
 a{ 
 	font-size: 0.8em;
 	color: #5F6F9C;
