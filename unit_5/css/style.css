@@ -59,7 +59,7 @@ li {
 	float: left;
 }
 #camera-photo > *, #burnt > * {
-	float:left;
+	float: right;
 	width:50%;
 }
 #burnt{
