@@ -19,7 +19,7 @@ h2{
 	font-size: 1.6em;
 	font-style: italic;
 	text-align: center;
-    color: #5F6F9C;
+    color: #476D9C;
 	margin: ;
 }
 
@@ -38,7 +38,7 @@ ul {
 
 
 li {
-	color: #5F6F9C;
+	color: #476D9C;
 }
 
 
@@ -69,14 +69,14 @@ body{
 a{ 
 	font-family: "Open Sans Condensed", sans-serif;
 	font-size: 1em;
-	color: #5F6F9C;
+	color: #476D9C;
 	text-decoration: none;
 	text-align: auto;
 }
 
 p a{
 	font-size: 0.8em;
-	color: #5F6F9C;
+	color: #476D9C;
 }
 
 
