@@ -2,6 +2,12 @@
 @import 'https://fonts.googleapis.com/css?family=Open+Sans+Condensed:300';
 
 
+
+body{
+	background-color: #000000;
+	font-size: 25px; 1em = 25px
+}
+
 nav a{
 	color:#483DB8;
 	font-style: italic;
@@ -45,12 +51,6 @@ ul {
 
 li {
 	color: #483DB8;
-}
-
-
-body{
-	background-color: #000000;
-	font-size: 25px; 1em = 25px
 }
 
 
