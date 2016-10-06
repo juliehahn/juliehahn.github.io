@@ -56,7 +56,7 @@ li {
 }
 #camera-photo, #burnt {
 	width: 50%;
-	float: left;
+	float: left, right;
 }
 #camera-photo > *, #burnt > * {
 	float: left,right;
