@@ -8,7 +8,7 @@ body{
 	font-size: 25px; /*1em = 25px*/
 }
 
-h1, p{
+h1{
 	font-family: 'Amatica SC', sans-serif;
 	font-weight: normal;
 	font-size: 2.5em;
@@ -17,6 +17,14 @@ h1, p{
 	margin:;
 }
 
+p{
+	font-family: 'Amatica SC' sans-serif;
+	font-weight: normal;
+	font-size: 2.5em;
+	text-align:;
+	color: #476D9C;
+	margin:;
+}
 
 h2{
 	font-family: 'Amatica SC', sans-serif;
