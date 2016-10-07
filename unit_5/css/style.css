@@ -17,8 +17,6 @@ h1, p{
 	margin:;
 }
 
-}
-
 h2{
 	font-family: 'Amatica SC', sans-serif;
 	font-weight: normal;
@@ -55,14 +53,17 @@ li {
     bottom: 0px;
     left: 0px;
 }
+
 #camera-photo, #burnt {
 	width: 50%;
 	float: left;
 }
+
 #camera-photo > *, #burnt > * {
 	float: left;
 	width:50%;
 }
+
 #burnt{
 	width:;
 	/* clear: both; */
