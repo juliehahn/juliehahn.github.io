@@ -24,7 +24,7 @@ h2{
 	font-weight: normal;
 	font-size: 1.6em;
 	font-style: italic;
-	text-align: vertical;
+	text-align: vertical, center;
     color: #476D9C;
 	margin: ;
 }
